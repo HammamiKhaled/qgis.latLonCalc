@@ -1,2 +1,2 @@
 # qgis.latLonCalc
-A QGIS plugin that tranform lon lat coordinates to DMS coordinates and vice versa
+A QGIS plugin that tranform longitude and latitude geographic coordinates to DMS (Degrees, minutes, seconds) coordinates and vice versa.
